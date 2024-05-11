@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/llucasmagoyel/fffc24bf97600600b28ecab17587057f/raw/63e35f1e43c400ee6954168963554357b1db29d2/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Magoyel</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MagoYel&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=llucasmagoyel&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Desenvolvedor - On the path to becoming a Data Analyst and Scientist 
 
@@ -27,7 +27,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagoYel&layout=compact&theme=vision-friendly-dark" alt="MagoYel's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasmagoyel&layout=compact&theme=vision-friendly-dark" alt="llucasmagoyel's most languages"/>
 </p>
 
 <br><br>
