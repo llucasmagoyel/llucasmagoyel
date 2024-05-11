@@ -36,7 +36,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/lucasmagoyel/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Lucas MagoYel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-lucasmagoyel-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://twitter.com/neo_dev_" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-neo-05122A?style=flat&logo=twitter" alt="twitter"/>  
