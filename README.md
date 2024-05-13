@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Artificial Inteligence
 
-- ⚡ Fun fact **Son of "I Am" 😜**
+- ⚡ Fun fact: **Son of "I Am" 😜**
 
 <br><br>
 
@@ -20,7 +20,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Oracle](https://img.shields.io/badge/-OracleSQL-05122A?style=flat&logo=oracle)&nbsp;
+![Oracle](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=oracle)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Microsoft)&nbsp;
 
 <br><br>
 
